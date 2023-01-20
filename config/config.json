@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "root",
-    "password": "Nguyenxuanmai2101",
+    "username": "admin",
+    "password": "Harryharry2!",
     "database": "pints_database",
-    "host": "127.0.0.1",
+    "host": "database-1.crtl1l1yxocc.ap-southeast-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
-    "password": "Nguyenxuanmai2101",
+    "username": "admin",
+    "password": "Harryharry2!",
     "database": "pints_database",
-    "host": "127.0.0.1",
+    "host": "database-1.crtl1l1yxocc.ap-southeast-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": "Nguyenxuanmai2101",
+    "username": "admin",
+    "password": "Harryharry2!",
     "database": "pints_database",
-    "host": "127.0.0.1",
+    "host": "database-1.crtl1l1yxocc.ap-southeast-1.rds.amazonaws.com",
     "dialect": "mysql"
   }
 }
